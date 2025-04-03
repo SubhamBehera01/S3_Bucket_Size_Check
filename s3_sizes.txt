@@ -1,0 +1,29 @@
+Bucket: my-unique-bucket-1-25e31320
+  Total bucket size: 496.19 MB
+  Total folders: 2
+  Total files: 10
+  Folder sizes:
+    hola: 496.19 MB
+    subham: 0.00 KB
+  Number of files in each folder:
+    hola: 9 files
+    subham: 1 files
+
+Bucket: my-unique-bucket-2-62ef3861
+  Total bucket size: 1.35 MB
+  Total folders: 1
+  Total files: 6
+  Folder sizes:
+    root: 1.35 MB
+  Number of files in each folder:
+    root: 6 files
+
+Bucket: my-unique-bucket-3-da87aff1
+  Total bucket size: 670.85 MB
+  Total folders: 1
+  Total files: 8
+  Folder sizes:
+    root: 670.85 MB
+  Number of files in each folder:
+    root: 8 files
+
