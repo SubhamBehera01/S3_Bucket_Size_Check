@@ -46,6 +46,12 @@ Bucket: data-subha-123
   Number of files in each folder:
     root: 5 files
 ```
+## without Filtering Buckets by Keywords
+If you want to check all S3 buckets without filtering by a keyword, you can modify the keywords list in your script as follows:
+```python
+keywords = []  # An empty list will disable filtering and include all buckets
+```
+- This will allow the script to process every S3 bucket in your AWS account.
 
 ## Filtering Buckets by Keywords
 You can modify the `keywords` list in the script to include specific terms for filtering S3 buckets.
